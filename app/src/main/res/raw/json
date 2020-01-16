@@ -1,0 +1,9 @@
+{
+  "action":"sendData",
+  "image":"name.jpg",
+  "contact": [
+  "name",
+  "surname",
+  "patronymic"
+]
+}
